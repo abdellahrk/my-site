@@ -3,7 +3,7 @@
 return [
     'production' => false,
     'baseUrl' => '',
-    'title' => 'Jigsaw',
-    'description' => 'Website description.',
+    'title' => 'Abdellah Ramadan',
+    'description' => 'Software engineer, Developer, CEO',
     'collections' => [],
 ];

@@ -12,6 +12,8 @@
         <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     </head>
     <body>
-        @yield('body')
+        <div class="container mx-auto">
+            @yield('body')
+        </div>
     </body>
 </html>
