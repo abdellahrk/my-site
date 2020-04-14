@@ -1,5 +1,5 @@
-<div class="m-20">
-    <p class="font-thin text-3xl text-center m-10">
+<div class="m-20 text-center">
+    <p class="flex justify-center font-thin text-3xl m-10 ">
         Technologies
     </p>
 

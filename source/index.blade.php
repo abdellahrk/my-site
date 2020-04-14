@@ -5,6 +5,8 @@
     @include('_partials.aboutme')
 
     @include('_partials.technologies')
+
+    @include('_partials.contact')
     
 
     <div class="text-center">
